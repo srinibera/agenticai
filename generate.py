@@ -22,7 +22,7 @@ def main():
         **inputs,
         max_length=args.max_length,
         do_sample=True,
-        top_k=50,
+        top_k=5,
         top_p=0.95,
         num_return_sequences=args.num_return_sequences,
     )
