@@ -23,7 +23,7 @@ def main():
         max_length=args.max_length,
         do_sample=True,
         top_k=5,
-        top_p=0.95,
+        top_p=0.75,
         num_return_sequences=args.num_return_sequences,
     )
 
