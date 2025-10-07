@@ -27,5 +27,3 @@ Generation example:
 ```powershell
 python generate.py --model_name_or_path gpt2 --prompt "Write a short poem about code" --max_length 80
 ```
-# agenticai
-Agentic AI
