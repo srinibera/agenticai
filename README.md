@@ -9,6 +9,8 @@ Files added:
 
 Quick start (recommended to run in a virtual environment):
 
+Windows Operating system
+
 ```powershell
 # create venv
 python -m venv .venv; .\.venv\Scripts\Activate.ps1
