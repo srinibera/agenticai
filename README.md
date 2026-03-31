@@ -1,4 +1,4 @@
-# agenticai — sample generative AI training
+# agenticai — generative AI training
 
 This repository contains a minimal example showing how to fine-tune a causal language model (e.g. GPT-2) on a plain-text dataset using Hugging Face Transformers and Datasets.
 
